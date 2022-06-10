@@ -1,11 +1,16 @@
 _repo: My-twin-puppies_68254
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68254-h/images/backcover.jpg
 creator:
   author:
     agent_name: Deihl, Edna Groff
     gutenberg_agent_id: '54674'
     url: http://www.gutenberg.org/2009/agents/54674
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68254#My-twin-puppies
 gutenberg_issued: '2022-06-06'
 identifiers:
   gutenberg: '68254'
